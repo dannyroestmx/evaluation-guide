@@ -12,7 +12,7 @@ tags: ["evaluation guide", "mendix", "gartner", "forrester", "hpaPaaS", "low-cod
 
 Mendix has been pioneering the low-code market for years, and analyst firms continue to recognize the company as a Leader in multiple analyst reports each year. This page provides an overview of these reports along with links for downloading the full documents, where you can learn more about what the analyst firms measure and how other low-code vendors try to keep pace.
 
-![Gartner Magic Quadrant and Forrester Wave Example](attachments/magic-quadrants.png)
+![Gartner Magic Quadrant and Forrester Wave Example](attachments/analyst-reports.png)
 
 ## 2 Gartner 2020 Magic Quadrant for Enterprise Low-Code Application Platforms
 
