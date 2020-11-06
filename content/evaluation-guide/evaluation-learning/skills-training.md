@@ -40,13 +40,13 @@ That being said, you can use any available programming skills to extend an app w
 
 With Mendix, you can build your first application in 30 minutes. Right after you create your account, you will be guided into the platform to build your first app.
 
-To really ramp up your learning, you can follow the [Become a Rapid Developer learning path](https://gettingstarted.mendixcloud.com/link/path/38) online at your own pace, free of charge (you must be signed in to the Mendix Platform to see this learning path). There are 11 modules in this learning path, which take about an hour each to complete. So, you could complete all the modules in 2–3 days, and then start building applications straightaway.
+To really ramp up your learning, you can follow the [Become a Rapid Developer learning path](https://academy.mendix.com/link/path/31) online at your own pace, free of charge (you must be signed in to the Mendix Platform to see this learning path). There are 11 modules in this learning path, which take about an hour each to complete. So, you could complete all the modules in 2–3 days, and then start building applications straightaway.
 
 There is no time limit to complete a Mendix learning path, which allows you to work through everything in your own time. The modules have individual learning units, each of which take a few minutes to complete. In addition, each module has a knowledge check to verify your understanding and highlight any areas you might need to review again.
 
-After a few months of experience with Mendix app projects, you will be able to get to the [Advanced Developer Certification](https://gettingstarted.mendixcloud.com/link/certification/advanced) level. Users with software experience get here faster than those without any experience in building apps.
+After a few months of experience with Mendix app projects, you will be able to get to the [Advanced Developer Certification](https://academy.mendix.com/link/certification/advanced) level. Users with software experience get here faster than those without any experience in building apps.
 
-The option to register for a three-day [classroom course](https://gettingstarted.mendixcloud.com/link/classroom) is also always available. These are taught by Mendix Academy experts.
+The option to register for a three-day [classroom course](https://academy.mendix.com/link/classroom) is also always available. These are taught by Mendix Academy experts.
 
 Based on a survey conducted amongst developers about learning low-code, we got these answers:
 
@@ -58,7 +58,7 @@ Because the Mendix Platform provides extensive capabilities and does [monthly re
 
 ## 4 What Are the Mendix Training Options? {#training-options}
 
-To learn Mendix, you can use the free online courses provided by Mendix Academy, attend a regular classroom course, and participate in live webinars. The [Mendix Academy](https://gettingstarted.mendixcloud.com/) is fully integrated in the platform with an in-product [guided introduction tour](#git), and provides multiple learning paths to onboard all Mendix Platform users.
+To learn Mendix, you can use the free online courses provided by Mendix Academy, attend a regular classroom course, and participate in live webinars. The [Mendix Academy](https://academy.mendix.com/) is fully integrated in the platform with an in-product [guided introduction tour](#git), and provides multiple learning paths to onboard all Mendix Platform users.
 
 The online Mendix learning paths have a modular setup, so you can start at any point, go through the content at your own pace, and follow or skip modules based on your needs. The [Academy learning paths](#lp-m) can be filtered according to **Your Role**, **Your Level**, and keyword **Tags** that reflect your interests and goals. This online  content is available for free, and you do not even need to have a Mendix account to use it.
 
@@ -72,31 +72,31 @@ Mendix provides a guided product introduction tour of the platform starting in t
 
 ### 4.2 Academy
 
-You can learn how to use the Mendix Platform without ever having to leave it. To follow a structured path to learn Mendix, navigate directly to the [Mendix Academy](https://gettingstarted.mendixcloud.com/link/home), where you can explore new development territory in your current role or even start a new career.
+You can learn how to use the Mendix Platform without ever having to leave it. To follow a structured path to learn Mendix, navigate directly to the [Mendix Academy](https://academy.mendix.com/link/home), where you can explore new development territory in your current role or even start a new career.
 
 The Mendix Academy provides the training options described below.
 
 #### 4.2.1 Learning Paths & Modules {#lp-m}
 
-When you want to pioneer a way forward, it's good to start with a path. The Mendix [learning paths](https://gettingstarted.mendixcloud.com/link/path) guide you through various learning modules that build your skills. These paths teach you everything from the fundamentals of how to build a Mendix app to how to improve your UX skills, from how to implement security in your apps to how to handle errors, and from how to configure app model logic to how to track your app's behavior.
+When you want to pioneer a way forward, it's good to start with a path. The [Mendix Academy learning paths](https://academy.mendix.com/link/path) guide you through various learning modules that build your skills. These paths teach you everything from the fundamentals of how to build a Mendix app to how to improve your UX skills, from how to implement security in your apps to how to handle errors, and from how to configure app model logic to how to track your app's behavior.
 
-The learning paths take you from different starting points, levels, and roles to new stages of Mendix knowledge. Want to get started with the Mendix Platform in less than one hour? The [Build an App in Mendix Studio](https://gettingstarted.mendixcloud.com/link/path/83/Build-an-App-in-Mendix-Studio) guides you through Mendix Studio and helps you to build your first app (you must be signed in to the Mendix Platform to see this learning path). Want to work on a Mendix development team? The [Become a Rapid Developer learning path](https://gettingstarted.mendixcloud.com/link/path/38) takes you through the key lessons for starting your Mendix development career.
+The learning paths take you from different starting points, levels, and roles to new stages of Mendix knowledge. Want to get started with the Mendix Platform in less than one hour? The [Build an App in Mendix Studio](https://academy.mendix.com/link/path/83/Build-an-App-in-Mendix-Studio) guides you through Mendix Studio and helps you to build your first app (you must be signed in to the Mendix Platform to see this learning path). Want to work on a Mendix development team? The [Become a Rapid Developer learning path](https://academy.mendix.com/link/path/31) takes you through the key lessons for starting your Mendix development career.
 
 <video controls  src="attachments/learning-path.mp4">VIDEO</video>
 
-The ultimate destination for each learning path is [certification](https://gettingstarted.mendixcloud.com/link/certification). Soon enough, you will be able to follow one of the advanced learning paths to take your career to the next level by specializing in one topic, or you can master them all to get certified as an [Advanced Developer](certification-talent#get-certified).
+The ultimate destination for each learning path is [certification](https://academy.mendix.com/link/certification). Soon enough, you will be able to follow one of the advanced learning paths to take your career to the next level by specializing in one topic, or you can master them all to get certified as an [Advanced Developer](certification-talent#get-certified).
 
 Each learning path contains various modules that you need to complete. Each module contains theory and assignment units as well as knowledge checks. You can start these whenever you want to learn more about a specific topic.
 
 #### 4.2.2 Classroom Courses {#classroom}
 
-Mendix offers regular [classroom courses](https://gettingstarted.mendixcloud.com/link/classroom) that align with the online learning paths, giving you a hands-on training experience. To start with the fundamentals, sign up for the [Rapid Developer Course](https://gettingstarted.mendixcloud.com/link/classroom/1/Rapid/Course). Then, to take your skills to the next level and drive digital innovation, check out the [Advanced Developer Course](https://gettingstarted.mendixcloud.com/link/classroom/5/Advanced/Course).
+Mendix offers regular [classroom courses](https://academy.mendix.com/link/classroom) that align with the online learning paths, giving you a hands-on training experience. To start with the fundamentals, sign up for the [Rapid Developer Course](https://academy.mendix.com/link/classroom/1/Rapid/Course). Then, to take your skills to the next level and drive digital innovation, check out the [Advanced Developer Course](https://academy.mendix.com/link/classroom/5/Advanced/Course).
 
 There are Mendix offices in Boston, Rotterdam, and London where you can receive hands-on training from an experienced team of Mendix Academy Experts. Depending on the amount of students, Mendix can provide on-site training as well.
 
 #### 4.2.3 Webinars
 
-Mendix provides a free series of live and interactive [webinars](https://gettingstarted.mendixcloud.com/link/webinar) that will help you to understand the inner-workings of the platform. The wide range of webinar topics include UX, Java, REST integration, QA, mobile, and performance. Whether you are just getting started with Mendix or you are a veteran developer, there’s something for everyone.
+Mendix provides a free series of live and interactive [webinars](https://academy.mendix.com/link/webinar) that will help you to understand the inner-workings of the platform. The wide range of webinar topics include UX, Java, REST integration, QA, mobile, and performance. Whether you are just getting started with Mendix or you are a veteran developer, there’s something for everyone.
 
 {{% image_container width="600" %}}
 ![Mendix Webinars](attachments/webinars.png)

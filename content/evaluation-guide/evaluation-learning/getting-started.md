@@ -14,7 +14,7 @@ Mendix's rapidly growing community consists of a wide range of people, from citi
 
 In order to onboard this variety of users, Mendix provides a [guided product introduction tour](#tailored-guidance) based on the user profile and preferences. After that, Mendix users can use two Mendix Platform IDEs ([Mendix Studio](../app-lifecycle/app-development#studio) and [Mendix Studio Pro](../app-lifecycle/app-development#studio-pro)) as well as [external IDEs](../enterprise-capabilities/extensibility#external-ides) that integrate with Mendix. Mendix Studio can be used as a no-code development IDE for citizen developers. In Mendix Studio Pro, you can build complex integrations and extend your app with custom code and more advanced features. This low-code development IDE enables everyone from business users to experienced professional developers to build advanced apps.
 
-The [free online training materials](https://gettingstarted.mendixcloud.com/link/home) that Mendix provides are built in a modular fashion. This means that you can skip modules depending on your knowledge, or only complete the knowledge checks to see if you need more information about a specific topic.
+The [free online training materials](https://academy.mendix.com/link/home) that Mendix provides are built in a modular fashion. This means that you can skip modules depending on your knowledge, or only complete the knowledge checks to see if you need more information about a specific topic.
 
 In addition to Mendix being free to try and evaluate, the Mendix Free Edition gives all users unlimited access to the platform and community environments. For more details, see [Can I Evaluate Mendix Before I Buy?](#evaluate-before) below.
 
@@ -30,7 +30,7 @@ You can also upload your own starter apps to your [Private App Store](https://do
 
 ## 3 How Does Mendix Onboard New Users? {#tailored-guidance}
 
-Visual development is fast and easy to understand for all type of users, which means that Mendix onboards users with different knowledge levels and goals on the platform. During the signup, users have the option to share their preferences and goals for using the platform. Based on that information, Mendix tailors the guided product introduction tour to their preferences while providing other help methods, links to our online [Mendix Academy](https://gettingstarted.mendixcloud.com/link/home) material, supplementary content, and suggestions for your next steps. This guidance helps users to understand and navigate the extensive and powerful Mendix Platform.
+Visual development is fast and easy to understand for all type of users, which means that Mendix onboards users with different knowledge levels and goals on the platform. During the signup, users have the option to share their preferences and goals for using the platform. Based on that information, Mendix tailors the guided product introduction tour to their preferences while providing other help methods, links to our online [Mendix Academy](https://academy.mendix.com/link/home) material, supplementary content, and suggestions for your next steps. This guidance helps users to understand and navigate the extensive and powerful Mendix Platform.
 
 <video controls  src="attachments/guidance.mp4">VIDEO</video>
 
