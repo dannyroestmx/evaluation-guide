@@ -10,7 +10,7 @@ tags: ["architecture", "microservice", "container", "statelessness", "openness",
 
 ## 1 What Are the Key Architectural Principles Behind the Mendix Platform? {#key-principles}
 
-Within the entire Mendix Platform, we have embedded (technical) principles to guarantee enterprise-ready applications. For Mendix, "enterprise-ready" means that the apps  are maintanable, performing, and scalable. It also means that the apps can cope with all the functional complexity of back-end enterprise systems so that they can be integrated into any enterprise landscape.
+Within the entire Mendix Platform, we have embedded (technical) principles to guarantee enterprise-ready applications. For Mendix, "enterprise-ready" means that the apps  are maintainable, performing, and scalable. It also means that the apps can cope with all the functional complexity of back-end enterprise systems so that they can be integrated into any enterprise landscape.
 
 ## 2 How Does Mendix Enable Model-Driven Development?
 
