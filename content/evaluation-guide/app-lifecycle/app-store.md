@@ -34,7 +34,7 @@ A connector is a Mendix App Store/Marketplace component that contains microflow 
 
 {{% image_container width="500" %}}
 
-![App Store/Marketplace Connectors](attachments/app-store-connectors.png)
+![App Store/Marketplace Connectors](attachments/app-store-connectors.jpg)
 
 {{% /image_container %}}
 
