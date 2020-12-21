@@ -387,7 +387,7 @@ const writeUpdateFeed = files => new Promise((resolve, reject) => {
 const checkExternal = files => {
   const externalChecked = 0,
         total = _.flatten(_.map(files, file => file.external && file.external.links ? file.external.links : [])),
-        uniq = _.uniq(total).filter(url => !/github\.com|localhost|linkedin\.com|facebook\.com|world\.mendix\.com/.test(url)); // we ignore github links for now
+        uniq = _.uniq(total).filter(url => !/github\.com|localhost|linkedin\.com|facebook\.com|twitter\.com|world\.mendix\.com/.test(url)); // we ignore github, Linkedin, Facebook, and Twitter links for now - would be nice to get a proper description of the error instead!
 
   if (!EXTERNAL) {
     return files;
