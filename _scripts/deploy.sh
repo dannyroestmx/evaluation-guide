@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e
+set -ev
 
 # TRAVIS_PULL_REQUEST is either the PR number or "false"
 if ([ "${TRAVIS_PULL_REQUEST}" != "false" ])
