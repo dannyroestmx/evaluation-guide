@@ -11,7 +11,7 @@ fi
 
 if ([ "${TRAVIS_BRANCH}" == "development" ])
 then
-  cf push -f ./manifest_accp.yml
+  # cf push -f ./manifest_accp.yml # old-style deploy
   echo 'Deploying development to AWS'
   TARGETAWSBUCKET="mendixtestevaluationguide"
   chmod +x $TRAVIS_BUILD_DIR/_scripts/aws_deploy.sh
