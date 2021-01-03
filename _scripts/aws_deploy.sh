@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -ev
+set -e +v
 
 echo "Deploying to AWS bucket $TARGETAWSBUCKET"
 
