@@ -36,27 +36,31 @@ Mendix is certified to be compliant with the [ISO/IEC 27017](https://www.iso.org
 
 Mendix is certified to be compliant with the [ISO/IEC 27018](https://www.iso.org/standard/76559.html) standard with all Annex A controls in scope. ISO/IEC 27018 is a key international standard for a code of practice for protection of personally identifiable information (PII) in public clouds acting as PII processors.
 
-### 2.4 ISAE 3000 Type II & ISAE 3402 Type II Assurance Reports
+### 2.4 NEN 7510 Certification
+
+Mendix is certified to be compliant with the [NEN 7510](https://www.nen.nl/nen-7510-1-2017-a1-2020-nl-267179) standard with all Annex A controls in scope. NEN 7510 is a Dutch healthcare certification which provides a framework based on the ISO/IEC 27001 and ISO/IEC 27002 standards to protect healthcare organization and it's processors.
+
+### 2.5 ISAE 3000 Type II & ISAE 3402 Type II Assurance Reports
 
 [ISAE 3000](http://www.ifac.org/publications-resources/international-standard-assurance-engagements-isae-3000-revised-assurance-enga) and [ISAE 3402](http://isae3402.com/ISAE3402_overview.html) are international assurance standards on controls at a service organization. Mendix holds an ISAE 3000 Type II and an ISAE 3402 Type II report, which discloses how Mendix security controls have been managed over the past year.
 
-### 2.5 SOC 1 Type II, SOC 2 Type II & SOC 3 Type II Assurance Reports
+### 2.6 SOC 1 Type II, SOC 2 Type II & SOC 3 Type II Assurance Reports
 
 [SOC 1](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc1report.html), [SOC 2](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html), and [SOC 3](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report.html) are American assurance standards on controls at a service organization. Mendix holds an SOC 1 Type II report, SOC 2 Type II report, and SOC 3 Type II report disclosing how Mendix security controls have been managed over the past year.
 
-### 2.6 PCI DSS Level 1 Service Provider Attestation of Compliance
+### 2.7 PCI DSS Level 1 Service Provider Attestation of Compliance
 
 Mendix is certified to be compliant with the [PCI DSS](https://www.pcisecuritystandards.org/document_library) standard as a Level 1 Service Provider, which is the highest certification a PCI DSS service provider can get.
 
-### 2.7 HIPAA
+### 2.8 HIPAA
 
 Mendix is attested to be compliant with [HIPAA](https://www.hhs.gov/hipaa/index.html). The Health Insurance Portability and Accountability Act of 1996 (HIPAA) required the Secretary of the U.S. Department of Health and Human Services (HHS) to develop regulations protecting the privacy and security of certain health information.
 
-### 2.8 Cyber Essentials (UK)
+### 2.9 Cyber Essentials (UK)
 
 Mendix is certified to be compliant with [Cyber Essentials](https://www.cyberessentials.ncsc.gov.uk/). The Cyber Essentials scheme addresses the most common internet-based threats to cyber security. For more details, see [Further Scheme Information](https://www.cyberessentials.ncsc.gov.uk/further-scheme-information).
 
-### 2.9 CSA STAR Certification
+### 2.10 CSA STAR Certification
 
 [CSA STAR](https://cloudsecurityalliance.org/star/#_overview) is a program for security assurance in the cloud. STAR consists of three levels of assurance based upon a comprehensive list of cloud control objectives.
 
