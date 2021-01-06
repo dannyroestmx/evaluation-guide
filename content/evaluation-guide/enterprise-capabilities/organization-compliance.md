@@ -38,7 +38,7 @@ Mendix is certified to be compliant with the [ISO/IEC 27018](https://www.iso.org
 
 ### 2.4 NEN 7510 Certification
 
-Mendix is certified to be compliant with the [NEN 7510](https://www.nen.nl/nen-7510-1-2017-a1-2020-nl-267179) standard with all Annex A controls in scope. NEN 7510 is a Dutch healthcare certification which provides a framework based on the ISO/IEC 27001 and ISO/IEC 27002 standards to protect healthcare organization and it's processors.
+Mendix is certified to be compliant with the [NEN 7510](https://www.nen.nl/nen-7510-1-2017-a1-2020-nl-267179) standard with all Annex A controls in scope. NEN 7510 is a Dutch healthcare certification which provides a framework based on the ISO/IEC 27001 and ISO/IEC 27002 standards to protect healthcare organizations and their processors.
 
 ### 2.5 ISAE 3000 Type II & ISAE 3402 Type II Assurance Reports
 
