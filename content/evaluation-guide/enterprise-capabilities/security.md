@@ -26,6 +26,7 @@ Mendix complies with the following third-party security certifications and assur
 * ISO/IEC 27001 Certification
 * ISO/IEC 27017 Certification
 * ISO/IEC 27018 Certification
+* NEN 7510 Certification
 * ISAE 3000 Type II Assurance Report
 * ISAE 3402 Type II Assurance Report
 * SOC 1 Type II Assurance Report
