@@ -3,7 +3,7 @@ title: "Logic"
 seo_title: "Developing Application Logic - Client & Server Side, Custom Code"
 seo_description: "Learn how to build client-side & server-side logic, how to add custom code to your Mendix App, & what debugging & error handling features are available."
 parent: "developing-in-mendix"
-menu_order: 30
+menu_order: 40
 bg: "developing"
 tags: ["logic", "business logic", "client-side", "server-side", "custom code", "debug"]
 ---

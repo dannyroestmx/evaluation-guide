@@ -3,7 +3,7 @@ title: "Debugging Facilities"
 seo_title: "Application Debugging Tools in Mendix"
 seo_description: "Learn how developers can debug any deployed instance of a Mendix app running either locally, on premises, or in the cloud & what debugging tools are available."
 parent: "developing-in-mendix"
-menu_order: 40
+menu_order: 50
 bg: "developing"
 tags: ["debug", "cloud", "java", "java action", "eclipse"]
 ---

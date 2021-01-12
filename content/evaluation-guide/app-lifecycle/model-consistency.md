@@ -3,7 +3,7 @@ title: "Model Consistency"
 seo_title: "Model Consistency & Automated Quality Assessments - Application Development"
 seo_description: "Learn about model consistency, automated quality assessments & how Mendix ensures data access rights are respected in the UI & APIs from the official guide."
 parent: "developing-in-mendix"
-menu_order: 60
+menu_order: 70
 bg: "developing"
 tags: ["model", "consistency", "refactoring", "aqm", "iso standard"]
 ---

@@ -3,7 +3,7 @@ title: "Component Reuse"
 seo_title: "Reuse Components of Mendix App Models"
 seo_description: "Learn about the different ways you can reuse the UI, logic, and data components of your Mendix app models."
 parent: "developing-in-mendix"
-menu_order: 80
+menu_order: 90
 bg: "developing"
 tags: ["reuse", "reusable component", "ui", "logic", "data", "module"]
 ---

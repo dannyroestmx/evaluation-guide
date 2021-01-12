@@ -3,8 +3,8 @@ title: "Version Control & Multi-User Development"
 seo_title: "Version Control Management Tools & Multi-user Application Development"
 seo_description: "Learn how the Mendix Team Server uses SVN technology to enable multiple developers to work on projects, continuously merging model changes into revisions."
 parent: "developing-in-mendix"
+menu_order: 60
 bg: "developing"
-menu_order: 50
 tags: ["version control", "multi-user", "user stories", "svn", "branching", "merging", "api"]
 ---
 
