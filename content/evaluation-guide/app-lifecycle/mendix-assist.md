@@ -16,7 +16,7 @@ Mendix leverages Artificial Intelligence (AI) and Machine Learning (ML) to help 
 
 Mendix enables you to visually build application logic easily with microflows and nanoflows instead of having to write code. To make this ever easier, MxAssist Logic Bot (which is an AI-powered virtual co-developer bot) guides you through modeling and configuring your application logic (microflows). It gives you a real-time and context-driven list of the next best actions based on the application logic already designed and other context-related information.
 
-<video controls  src="logic-bot.mp4">VIDEO</video>
+<video controls  src="attachments/logic-bot.mp4">VIDEO</video>
 
 MxAssist Logic Bot is built using machine learning analysis of over twelve million anonymized application logics (microflows)—built with Mendix over a decade—to detect and learn the best practice patterns in microflows.
 
@@ -39,6 +39,6 @@ MxAssist Performance bot consists of three levels of assistance:
 2. **Recommendation** – The bot explains the identified issue, potential impact, and shows the way to fix it. There is also a detailed best practice guide with a dedicated step-by-step guideline of how to fix the issue.
 3. **Auto-fixing** – Upon user acknowledgment, the bot can automatically implement the best practice and fix the issue.
 
-<video controls  src="performance-bot.mp4">VIDEO</video>
+<video controls  src="attachments/performance-bot.mp4">VIDEO</video>
 
 MxAssist Performance Bot is built using the statistical analysis of thousands of anonymized Mendix projects to learn common anti-patterns as well as Mendix Expert Services best practices for the development of microflows, domain models, pages, security, etc. MxAssist Performance Bot enhances development efficiency by substantially reducing peer reviews, educates junior developers on best practices, increases developer productivity via the automatic detection and pinpointing of issues, and provides assistance for addressing these issues. For more information about how to use MxAssist Performance Bot, see [MxAssist Performance Bot](https://docs.mendix.com/refguide/mx-assist-performance-bot) in the Mendix Studio Pro Guide.
