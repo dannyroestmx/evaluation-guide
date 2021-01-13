@@ -14,8 +14,7 @@ Mendix leverages Artificial Intelligence (AI) and Machine Learning (ML) to help 
 
 ## 2 How Does Mendix Leverage AI to Help Users to Build Application Logics Faster With Higher Quality?
 
-Mendix enables you to visually build application logic easily with microflows and nanoflows instead of having to write code. 
-To make this ever easier, MxAssist Logic Bot (which is an AI-powered virtual co-developer bot) guides you through modeling and configuring your application logic (microflows). It gives you a real-time and context-driven list of the next best actions based on the application logic already designed and other context-related information.
+Mendix enables you to visually build application logic easily with microflows and nanoflows instead of having to write code. To make this ever easier, MxAssist Logic Bot (which is an AI-powered virtual co-developer bot) guides you through modeling and configuring your application logic (microflows). It gives you a real-time and context-driven list of the next best actions based on the application logic already designed and other context-related information.
 
 <video controls  src="logic-bot.mp4">VIDEO</video>
 
