@@ -34,7 +34,7 @@ Mendix offers several options for extending web apps. These are discussed in the
 
 ## 4 How Can I Test My Web App?
 
-Mendix offers an integrated [Application Testing Suite (ATS)](https://docs.mendix.com/ats/), in which (non-technical) users can test web applications using recorded test scripts on multiple browsers and multiple devices.
+Mendix offers an integrated [Application Testing Suite (ATS)](https://docs.mendix.com/addons/ats-addon/), in which (non-technical) users can test web applications using recorded test scripts on multiple browsers and multiple devices.
 
 {{% image_container width="600" %}}
 ![Application Testing Suite](attachments/ats.png)
