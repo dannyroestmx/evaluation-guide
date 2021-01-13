@@ -10,8 +10,7 @@ tags: ["ai assisted development", "mendix assist", "mxassist", "logic bot", "per
 
 ## 1 How Does Mendix Leverage AI to Help Users to Build Applications?
 
-Mendix leverages Artificial Intelligence (AI) and Machine Learning (ML) to help development teams model and deliver Mendix applications faster, with more consistency and with higher quality. 
-This is an emerging trend in software development, commonly known as AI-Assisted Development (AIAD). 
+Mendix leverages Artificial Intelligence (AI) and Machine Learning (ML) to help development teams model and deliver Mendix applications faster, with more consistency and with higher quality. This is an emerging trend in software development, commonly known as AI-Assisted Development (AIAD). 
 AIAD in the Mendix platform is called Mendix Assist. Mendix Assist consists of different capabilities that act as virtual co-developer bots, each specialized in a certain domain or stage of the application lifecycle development. 
 Currently, Mendix Assist consists of two virtual co-developer bots: MxAssist Logic Bot and MxAssist Performance Bot.
 
