@@ -22,7 +22,7 @@ For more details, see [Collaborative Development](https://docs.mendix.com/refgui
 
 ## 2 How Does Version Control Work in Mendix?
 
-Mendix supports the use of a centralized version control repository based on Subversion (SVN), which is the [Mendix Team Server](https://docs.mendix.com/refguide/version-control#concepts). Every project built using the Mendix Platform comes with the Team Server version control system. The Team Server uses SVN technology and enables multiple developers to work on the same project, continuously merging model changes into revisions held inside the version control repository.
+Mendix supports the use of a centralized version control repository based on Subversion (SVN), which is the [Mendix Team Server](https://docs.mendix.com/developerportal/develop/team-server). Every project built using the Mendix Platform comes with the Team Server version control system. The Team Server uses SVN technology and enables multiple developers to work on the same project, continuously merging model changes into revisions held inside the version control repository.
 
 This diagram presents the Mendix version control architecture:
 
