@@ -14,7 +14,7 @@ The Mendix Platform provides development teams with an extensive toolset and ext
 
 Mendix apps are built from standard components that are already pre-tested by Mendix. The internal consistency of a custom application model that a development team builds on top of these components is continuously checked by Mendix Studio and Mendix Studio Pro. The goal of this is to catch common modeling mistakes and issues early in development. For more details, see  [How Does Mendix Ensure the Quality of My Apps?](#ensure) below.
 
-During development, the [Mendix Application Quality Monitor (AQM)](https://docs.mendix.com/aqm/) provides insight into the quality of the application models that you are building. Dashboards provide high-level details and allow you to drill down at the microflow level. For more details, see the section [What Tools Are Available for Quality-Monitoring Mendix Apps?](quality-monitoring#quality-monitoring) in *Quality Monitoring*.
+During development, the [Mendix Application Quality Monitor (AQM)](https://docs.mendix.com/addons/aqm-addon/) provides insight into the quality of the application models that you are building. Dashboards provide high-level details and allow you to drill down at the microflow level. For more details, see the section [What Tools Are Available for Quality-Monitoring Mendix Apps?](quality-monitoring#quality-monitoring) in *Quality Monitoring*.
 
 With standard components, you can develop complex business logic as part of your applications. To test the business logic in your application, you can use a combination of unit tests and automated functional acceptance tests to create an end-to-end test suite for your apps. For more information, see [How Can I Unit Test My Mendix Apps?](#unit-test) and [What Tools Does Mendix Offer for Functional Testing?](#tools-functional) below.
 
@@ -68,7 +68,7 @@ The Mendix Platform supports the implementation of unit tests. These tests are b
 
 ## 4 What Tools Does Mendix Offer for Functional Testing? {#tools-functional}
 
-With the Mendix Platform, you can automate your functional tests for the user stories you are developing and reduce the overall cost of testing to less than 10% of your project budget. The Mendix [Application Test Suite (ATS)](https://docs.mendix.com/ats/) offers a suite of tools for embedding testing in your application lifecycle. These tools are built in Mendix, on top of Selenium.
+With the Mendix Platform, you can automate your functional tests for the user stories you are developing and reduce the overall cost of testing to less than 10% of your project budget. The Mendix [Application Test Suite (ATS)](https://docs.mendix.com/addons/ats-addon/) offers a suite of tools for embedding testing in your application lifecycle. These tools are built in Mendix, on top of Selenium.
 
 {{% image_container width="650" %}}
 
@@ -96,6 +96,6 @@ The Mendix Platform provides an open and extensible toolset, which can be extend
 
 When committing changes to an application, developers can select the user stories that are covered in that specific revision. This information is then stored with the revision and held in Team Server for future use in audit processes. This helps in the testing process.
 
-User stories can be synchronized with ATS, wherein testers can build specific functional tests cases against each user story. This process enables teams to automate functional testing within the CI/CD pipeline. For details on how to do this, see [How to Link Test Cases & Test Suites to User Stories](https://docs.mendix.com/ats/howtos/ht-version-2/connect-stories-to-testcases-2) in the *ATS Guide*.
+User stories can be synchronized with ATS, wherein testers can build specific functional tests cases against each user story. This process enables teams to automate functional testing within the CI/CD pipeline. For details on how to do this, see [How to Link Test Cases & Test Suites to User Stories](https://docs.mendix.com/addons/ats-addon/ht-two-connect-stories-to-testcases) in the *ATS Guide*.
 
 For more information on the traceability of changes to application models against the requirements captured in user stories, see the section [How Do I Cross-Reference User Stories and Application Change Commits?](version-control#cross-reference) in *Version Control and Multi-User Development*.

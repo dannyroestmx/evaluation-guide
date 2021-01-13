@@ -10,7 +10,7 @@ tags: ["test automation", "quality assurance", "model", "aqm", "unit test", "fun
 
 ## 1 What Tools Are Available for Quality-Monitoring Mendix Apps? {#quality-monitoring}
 
-The Mendix [Application Quality Monitor (AQM)](https://docs.mendix.com/aqm/aqm-overview) offers a dashboard that provides instant insight into the quality of the application models you are building. This industry-first cloud service leverages the Mendix metadata-based Model API, performing static analysis of application models by a best-of-breed engine from our integration partner [Software Improvement Group (SIG)](https://www.sig.eu/) against the [ISO 25010 industry standard for maintainability](#iso).
+The Mendix [Application Quality Monitor (AQM)](https://docs.mendix.com/addons/aqm-addon/) offers a dashboard that provides instant insight into the quality of the application models you are building. This industry-first cloud service leverages the Mendix metadata-based Model API, performing static analysis of application models by a best-of-breed engine from our integration partner [Software Improvement Group (SIG)](https://www.sig.eu/) against the [ISO 25010 industry standard for maintainability](#iso).
 
 {{% image_container width="600" %}}
 

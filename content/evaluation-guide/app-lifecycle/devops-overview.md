@@ -47,7 +47,7 @@ During development, Mendix helps development teams to efficiently develop (or *m
 
 Compared to other development tools, this makes users more efficient and reduces the number of accidentally introduced regressions. For more details, see [Consistency Checks](model-consistency).
 
-To ensure that the apps being developed have consistently high-quality app models with limited technical debt, development teams use the [Mendix Application Quality Monitor (AQM)](https://docs.mendix.com/aqm/) to continuously monitor the quality of their app models. AQM provides development teams with deep insight into the technical quality of their app models, so that they can stay in control of technical debt.  For more details, see the section [Quality Monitoring](quality-monitoring#quality-monitoring) in *App Build Creation*.
+To ensure that the apps being developed have consistently high-quality app models with limited technical debt, development teams use the [Mendix Application Quality Monitor (AQM)](https://docs.mendix.com/addons/aqm-addon/) to continuously monitor the quality of their app models. AQM provides development teams with deep insight into the technical quality of their app models, so that they can stay in control of technical debt.  For more details, see the section [Quality Monitoring](quality-monitoring#quality-monitoring) in *App Build Creation*.
 
 For further information on developing Mendix apps, see [Developing in Mendix](developing-in-mendix).
 
@@ -65,7 +65,7 @@ For details on how to version your app models, create deployable artifacts, and 
 
 Continuous integration and continuous delivery (CI/CD) is supported both in the Mendix Developer Portal and via the platform APIs. The platform APIs enable [integrating with external tools](#devops-tools) to build a delivery pipeline using products like Jenkins and Selenium coupled with container technologies like Cloud Foundry, Kubernetes, and Docker.
 
-As part of the CI pipeline, testing can be fully automated. To implement unit tests, you can use the [UnitTesting module](https://appstore.home.mendix.com/link/app/390/), which is available in the Mendix App Store/Marketplace. In addition, testers and developers alike can use the [Mendix Application Test Suite](https://docs.mendix.com/ats/), a Selenium-based test service for automated UI testing. Third-party testing tools and services like Selenium, JMeter, and Gatling can also be integrated in the CI pipeline.
+As part of the CI pipeline, testing can be fully automated. To implement unit tests, you can use the [UnitTesting module](https://appstore.home.mendix.com/link/app/390/), which is available in the Mendix App Store/Marketplace. In addition, testers and developers alike can use the [Mendix Application Test Suite](https://docs.mendix.com/addons/ats-addon/), a Selenium-based test service for automated UI testing. Third-party testing tools and services like Selenium, JMeter, and Gatling can also be integrated in the CI pipeline.
 
 For more information, see [Continuous Integration](cicd) and [Testing](test-automation-qa). And for details on using third-party testing tools, see the section [How Does Mendix Support Third-Party Testing Tools?](test-automation-qa#third-party) in *Test Automation & Quality Assurance*.
 
@@ -91,7 +91,7 @@ The Mendix Platform provides out-of-the-box monitoring capabilities that give in
 ![Application Performance Monitoring Example](attachments/metrics.png)
 {{% /image_container %}}
 
-Developers can do advanced problem diagnosis and performance monitoring of their Mendix apps with [Mendix Application Performance Monitor (APM)](https://docs.mendix.com/apm/).
+Developers can do advanced problem diagnosis and performance monitoring of their Mendix apps with [Mendix Application Performance Monitor (APM)](https://docs.mendix.com/addons/apd-addon/).
 
 For an overview of the features available for development teams to run apps with enterprise-grade service levels, see [Monitoring](monitoring-alerts).
 
