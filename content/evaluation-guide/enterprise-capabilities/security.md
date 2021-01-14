@@ -36,6 +36,7 @@ Mendix complies with the following third-party security certifications and assur
 * HIPAA Assurance Letter
 * Cyber Essentials (UK)
 * CSA STAR Certification
+* FSQS and FSQS-NL
 
 For more information, see [Which Third-Party Security Certifications and Assurance Reports Does Mendix Have?](organization-compliance#security-certifications)
 

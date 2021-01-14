@@ -66,6 +66,10 @@ Mendix is certified to be compliant with [Cyber Essentials](https://www.cyberess
 
 Mendix has completed the CSA STAR level one self-assessment, which is available upon request.
 
+### 2.11 FSQS and FSQS-NL
+
+Mendix is certified to be compliant with [FSQS](https://hellios.com/fsqs/). FSQS (Financial Services Qualification System) is a community of financial institutions including banks, building societies, insurance companies and investment services, collaborating to agree a single standard for managing the increasing complexity of third and fourth-party information needed to demonstrate compliance to regulators, policies and governance controls.
+
 ## 3 What Security Controls Does Mendix Have in Place for Its Employees?
 
 All Mendix employees are required to provide a government-certified background check (certificate of good conduct) and are bound by strict confidentiality obligations that are embodied within a confidentiality agreement. Furthermore, Mendix has implemented a security awareness program for all employees. Mendix security and privacy staff holds industry standard certifications, including but not limited to CISSP, CCSP, CIPP/E, CDPSE, and CISM.
