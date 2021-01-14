@@ -66,9 +66,9 @@ Mendix is certified to be compliant with [Cyber Essentials](https://www.cyberess
 
 Mendix has completed the CSA STAR level one self-assessment, which is available upon request.
 
-### 2.11 FSQS and FSQS-NL
+### 2.11 FSQS & FSQS-NL
 
-Mendix is certified to be compliant with [FSQS](https://hellios.com/fsqs/). FSQS (Financial Services Qualification System) is a community of financial institutions including banks, building societies, insurance companies and investment services, collaborating to agree a single standard for managing the increasing complexity of third and fourth-party information needed to demonstrate compliance to regulators, policies and governance controls.
+Mendix is certified to be compliant with [FSQS](https://hellios.com/fsqs/). The Financial Services Qualification System (FSQS) is a community of financial institutions including banks, building societies, insurance companies, and investment services who are collaborating to agree on a single standard for managing the increasing complexity of third- and fourth-party information needed to demonstrate compliance to regulators, policies, and governance controls.
 
 ## 3 What Security Controls Does Mendix Have in Place for Its Employees?
 
