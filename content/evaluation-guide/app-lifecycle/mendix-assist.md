@@ -3,7 +3,7 @@ title: "Mendix Assist"
 seo_title: "Developing applications using Artificial Intelligence (AI)"
 seo_description: "Use AI and ML to build applications, AI Assisted development in Mendix, Mendix Assist to build miscroflows, Mendix Assist for best practice"
 parent: "developing-in-mendix"
-menu_order: 30
+menu_order: 75
 bg: "developing"
 tags: ["ai assisted development", "mendix assist", "mxassist", "logic bot", "performance bot", "artificial intelligence", "machine learning", "logic", "performance"]
 ---
