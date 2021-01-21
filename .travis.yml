@@ -8,12 +8,6 @@ env:
     - TRAVIS_NODE_VERSION="8.1.3"
     - HUGO_ENV=$($GET_ENV_VAR)
     - EXTERNAL=true
-    - CF_APP=evaluation-guide
-    - CF_API=https://api.run.pivotal.io
-    - CF_USERNAME=jelte.lagendijk@mendix.com
-    - CF_ORGANIZATION=mendix-rnd.com
-    - CF_SPACE=docs
-    - CF_CLI_VERSION=6.22.2
     - HUGO_VERSION=0.25.1
     - secure: CVuRnsjfn78gXPrRUlr7r+VfcH3mPAwgc86ZiSBzMlmmftaLtzERWKOwegGpLeIBu81MJiDDFYb7StutrVdZyjc5Tj9wu127pQB1Ntth6JzfAertDwREDgUXQBscSUOQ/ioJVzuxEKUf/lObFGHhv9RQQfLbOANuBqXBBZaN4UBKW47QRzcFcQBKg6VG6xfSiU2T1XIs7LuW1eDTRobNATsjByevetVTgReFaU2EBGqAwsPbhxFx7XSkw+8c1Yr3fXL3D1PIxheCch1UuADmsqKXWjFLZYSfMkM8cWN9e9CEvBnUflBQJdG4DoaTmdz/KvG8Ha0I8Unl+lvunTdiT0w7ue756BQUFFgHS9RBLkhSQo5/0PoKSdtR/rKiJGXYg02/995FSbUm7ZyoE3qS/re+AlCyzroP0uexSEKmYiCXZiNgyd/C1Ni7aZT1n/RQYqNRlReoOA3xvmlnq4vZW0sugGFxIpm+/gl81mdhRZ0HOD6DrwCwRcSvjaIVjLf5bKo0NnOeeY8el81oF6xbTLq02tSBm7yjLOXEciLtSNcit6DVtfy94XmLKIXmz4GozjNpyxqqJ7tlJBdcFKdandHR+HefK9oypnPI1N7DT/w/xuQitg9weFHMukTb/F5JnAPZa1R9+hKl57AbZL+3vYDcOlmlA43QEFUqPLNAINg=
     - secure: hL4i4AMi1MHmoZltNfPUrtQEzOUugFr1skdvKV3GPbK7nzKScY5au6f1Epn9nAhBpkLI4mp7UQbQRpYxHugCVfwWlWYHN77oq2yE0lGf/lcGBGjhQ4Orw0IYS82xaPO+vTYsBKy6rjrZoOkFk9dfXoRKirIIeo2QvDkbayWEvc6NSRrnbTx7cjcS34AR99Jn/+g8pGd7tyF+6ZtEdCEXoEC6xUXIShHg9E0AyxaE1oGAa9b6KX8g5Rr/Bnp6Puj8WmuL6Aq535P1/aixsEjvK35jmQTYH19sm00vqW6ZR+w8x+M9DOaFNt4/vtmvGV8JVkAHkuPflYSQHWxm82Lwd71DH02DLmgGOvvR6dKGYWYrxgarNMEKEVir/rk0JPmkOTxByD9qtLlkGqOHfX0ZtgNeH14A83UzAeISvz4djQRgDRjKT4OptG+d9kOYVkmVYImB+FnPra+ylfrDrcYjPY1AsAVhglpXplSaxBOndG1f47cViLJz4TX4b5X5BDXVyjHvZiAGEvqWnNbIHkmSOpYPLpeRWoUZtyck+kOxNCdkccXdWAdxVVzRkc6jHxXKJHrhAWMgCycgVMwOur7lz8kjWIduBOSr0LPTuQtl9Njeh6J4Gsd79KHZQcv6KS5I6Qrn8nFPL3ArSRmQHOXQ8kjIF3HTKqvRp/Z+xuLn6eQ=
@@ -29,13 +23,6 @@ install:
   - yarn install
 before_deploy:
   - export PATH=$HOME:$PATH
-  - travis_retry curl -L -o $HOME/cf.tgz "https://cli.run.pivotal.io/stable?release=linux64-binary&version=$CF_CLI_VERSION"
-  - tar xzvf $HOME/cf.tgz -C $HOME
-  - chmod +x $HOME/cf
-  - mv $HOME/cf $HOME/bin/cf
-  - cp ./_scripts/autopilot-linux $HOME/
-  - chmod a+x $HOME/autopilot-linux
-  - ./_scripts/before_deploy.sh
   - travis_retry curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
   - unzip -q awscliv2.zip
   - sudo ./aws/install
