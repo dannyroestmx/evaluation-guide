@@ -1,11 +1,11 @@
 ---
 title: "Cloud Providers"
-seo_title: "Cloud Provider Support - SAP, IBM, AWS, Azure, Pivotal, Cloud Foundry, Docker"
+seo_title: "Cloud Provider Support - SAP, IBM, AWS, Azure, Cloud Foundry, Docker"
 seo_description: "Mendix is compatible with IBM Cloud, SAP Cloud, Azure, AWS, OpenShift & Google Cloud, & supports Cloud Foundry, Kubernetes & Docker. Visit to learn more!"
 parent: "deployment"
 menu_order: 20
 bg: "multicloud"
-tags: ["cloud provider", "cloud", "sap", "ibm", "aws", "azure", "pivotal", "cloud foundry"]
+tags: ["cloud provider", "cloud", "sap", "ibm", "aws", "azure", "cloud foundry"]
 ---
 
 ## 1 Which Cloud Providers Can I Use for Mendix? {#which-cloud}
