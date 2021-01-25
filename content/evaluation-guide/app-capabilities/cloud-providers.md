@@ -1,11 +1,11 @@
 ---
 title: "Cloud Providers"
-seo_title: "Cloud Provider Support - SAP, IBM, AWS, Azure, Pivotal, Cloud Foundry, Docker"
+seo_title: "Cloud Provider Support - SAP, IBM, AWS, Azure, Cloud Foundry, Docker"
 seo_description: "Mendix is compatible with IBM Cloud, SAP Cloud, Azure, AWS, OpenShift & Google Cloud, & supports Cloud Foundry, Kubernetes & Docker. Visit to learn more!"
 parent: "deployment"
 menu_order: 20
 bg: "multicloud"
-tags: ["cloud provider", "cloud", "sap", "ibm", "aws", "azure", "pivotal", "cloud foundry"]
+tags: ["cloud provider", "cloud", "sap", "ibm", "aws", "azure", "cloud foundry"]
 ---
 
 ## 1 Which Cloud Providers Can I Use for Mendix? {#which-cloud}
@@ -14,7 +14,7 @@ Mendix is compatible with all the well-known cloud providers: IBM Cloud, SAP Clo
 
 In addition, Mendix has formal partnerships with SAP, IBM, Microsoft, and AWS. [SAP](../strategic-partners/sap) is an official reseller and sees Mendix as an extension of SAP Cloud Platform. [IBM](../strategic-partners/ibm) has selected Mendix as the preferred low-code development platform for use on top of IBM Cloud.
 
-![Cloud Providers - SAP, IBM, AWS, Azure, Pivotal](attachments/CloudProvIdersLogos.png)
+![Cloud Providers - SAP, IBM, AWS, Azure](attachments/CloudProvIdersLogos.png)
 
 This table presents an overview of the deployment options for each provider:
 

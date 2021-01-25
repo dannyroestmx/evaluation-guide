@@ -149,7 +149,7 @@ Logs are persistently stored in log files, and Mendix provides an API for subscr
 
 ## 5 How Does the Mendix Cloud Support DTAP Environments?
 
-The Mendix Platform deployment architecture is based on Cloud Foundry, which is the industry-standard cloud application platform used by SAP, IBM, Pivotal, and GE, among others. Cloud Foundry logically separates Mendix applications using containers. You can have as many environments as you need, but this usually includes environments for acceptance, production, and sometimes test, each running in their own app environment.
+The Mendix Platform deployment architecture is based on Cloud Foundry, which is the industry-standard cloud application platform used by SAP, IBM, and GE, among others. Cloud Foundry logically separates Mendix applications using containers. You can have as many environments as you need, but this usually includes environments for acceptance, production, and sometimes test, each running in their own app environment.
 
 ## 6 How Does Mendix Provide Containment Within the Mendix Cloud?
 

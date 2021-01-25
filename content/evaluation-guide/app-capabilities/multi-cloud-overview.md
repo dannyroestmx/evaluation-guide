@@ -46,7 +46,7 @@ In the Mendix Platform, the development and execution of your application are fu
 
 ### 2.1 How Can I Run Mendix in the Public Cloud? {#running-public-cloud}
 
-Mendix applications can run on all common public cloud providers, such as [Mendix Cloud](mendix-cloud-overview), Amazon Web Services, Microsoft Azure, IBM Cloud, Google Cloud Platform, SAP Cloud Platform, Redhat Openshift, and Pivotal Web Services.
+Mendix applications can run on all common public cloud providers, such as [Mendix Cloud](mendix-cloud-overview), Amazon Web Services, Microsoft Azure, IBM Cloud, Google Cloud Platform, SAP Cloud Platform, and Redhat Openshift.
 
 You can choose the methodology to use – from container-based to VM-based, every methodology is possible.
 
