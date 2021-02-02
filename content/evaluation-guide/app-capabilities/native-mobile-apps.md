@@ -42,10 +42,28 @@ If other device capabilities are needed, you can extend the project with custom 
 
 ## 3 How Can I Preview & Test My Native Mobile App? {#mxapp-preview}
 
-You can preview a Mendix native mobile app directly on your device via the Mendix Make It Native app (available for [Android](https://play.google.com/store/apps/details?id=com.mendix.developerapp) and [iOS](https://apps.apple.com/us/app/make-it-native/id1334081181)) by scanning the QR code in Mendix Studio Pro or manually entering the IP address. When you make a change to your app and press the run button, the app will be automatically reloaded, quickly making your changes visible while keeping the original state so that you are still on the same page with the same data. This creates a very short feedback cycle. Next to this, you can use a simple three-finger tab to reload the app after you make changes to the styling.
+You can preview a Mendix native mobile app directly on your device via the Mendix Make It Native app (available for Android (https://play.google.com/store/apps/details?id=com.mendix.developerapp) and [iOS](https://apps.apple.com/us/app/make-it-native/id1334081181)) by scanning the QR code in Mendix Studio Pro or manually entering the IP address. When you make a change to your app and press the run button, the app will be automatically reloaded, quickly making your changes visible while keeping the original state so that you are still on the same page with the same data. This creates a very short feedback cycle. Next to this, you can use a simple three-finger tab to reload the app after you make changes to the styling.
 
 For more information, see [How to Get Started with Native Mobile](https://docs.mendix.com/howto/mobile/getting-started-with-native-mobile) in the *Mendix Studio Pro How-to's*.
 
 ## 4 How Can I Extend My Native Mobile App? {#how-can-i-extend-my-mobile-app}
 
-You can extend native mobile apps with custom UI components or app logic to leverage any type of visualization, UI/UX, or device capability. For details, see [How Can I Extend the Mendix Front-End?](front-end#extend) in *Front-End*. 
+Mendix native mobile apps are similar to regular React Native Mobile apps and developers have full accesss to the source offering many options for customization and extensions.
+
+You can extend native mobile apps with custom UI components or app logic to leverage any type of visualization, UI/UX, or device capability. The React Native community offerts many componentss which can be leveraged. For details, see [How Can I Extend the Mendix Front-End?](front-end#extend) in *Front-End*.
+
+
+## 5 How Can I Build and Distribute My Native Mobile App {#how-can-build-my-mobile-app}
+
+Mendix offers a fully UI driven approach to build the binaries for your native mobile app. Directly from Studio pro a developer can launch the UI to build a binary for development or for distrubtion. Using a simple wizard or through advanced settings developer can easily configure several settings like, app name and id, icons, splash screens, push notifications, api keys, permissions and more. Developers can also create different profiles to fascilitate for different environments or other variants.
+
+{{% image_container width="650" %}}
+![User interface for mobile app building](attachments/native_app_building_wizard.png)
+{{% /image_container %}}
+
+Via this user interface, the app can be build automatically via [Microsoft Visual Studio App Center](https://appcenter.ms/). Via this approach the developer does not need 
+
+{{% image_container width="650" %}}
+![App building](attachments/native_app_building_build.png)
+{{% /image_container %}}
+
