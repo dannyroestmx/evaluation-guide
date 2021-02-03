@@ -1,7 +1,7 @@
 ---
 title: "Progressive Web Apps"
-seo_title: "Building Progressive Web Applications in Mendix - Responsive Design"
-seo_description: "Learn how Mendix progressive web apps work & how Mendix's responsive design means applications will look great no matter which resolution or device they're displayed on."
+seo_title: "Building Progressive Web Applications in Mendix"
+seo_description: "Learn how Mendix progressive web apps work."
 parent: "ux-multi-channel-apps"
 menu_order: 50
 bg: "ux"
