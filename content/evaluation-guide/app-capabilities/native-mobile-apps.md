@@ -48,20 +48,19 @@ For more information, see [How to Get Started with Native Mobile](https://docs.m
 
 ## 4 How Can I Extend My Native Mobile App? {#how-can-i-extend-my-mobile-app}
 
-Mendix native mobile apps are similar to regular React Native Mobile apps and developers have full accesss to the source offering many options for customization and extensions.
+Mendix native mobile apps are similar to regular React Native Mobile apps. Developers have full access to the source, offering many options for customization and extension.
 
-You can extend native mobile apps with custom UI components or app logic to leverage any type of visualization, UI/UX, or device capability. The React Native community offerts many componentss which can be leveraged. For details, see [How Can I Extend the Mendix Front-End?](front-end#extend) in *Front-End*.
-
+You can extend native mobile apps with custom UI components or app logic to leverage any type of visualization, UI/UX, or device capability. The React Native community offers many components which can be leveraged. For details, see [How Can I Extend the Mendix Front-End?](front-end#extend) in *Front-End*.
 
 ## 5 How Can I Build and Distribute My Native Mobile App {#how-can-build-my-mobile-app}
 
-Mendix offers a fully UI driven approach to build the binaries for your native mobile app. Directly from Studio pro a developer can launch the UI to build a binary for development or for distrubtion. Using a simple wizard or through advanced settings developer can easily configure several settings like, app name and id, icons, splash screens, push notifications, api keys, permissions and more. Developers can also create different profiles to fascilitate for different environments or other variants.
+Mendix offers a fully UI-driven approach to build the binaries for your native mobile app. Directly from Studio Pro a developer can launch the UI to build a binary for development or for distribution. Using a simple wizard or through advanced settings, a developer can easily configure several settings like app name and id, icons, splash screens, push notifications, API keys, permissions, and more. Developers can also create different profiles suited to different environments or other variants. 
 
 {{% image_container width="650" %}}
 ![User interface for mobile app building](attachments/native_app_building_wizard.png)
 {{% /image_container %}}
 
-Via this user interface, the app can be build automatically via [Microsoft Visual Studio App Center](https://appcenter.ms/). Via this approach the developer does not need 
+Via this user interface, the app can be built automatically via [Microsoft Visual Studio App Center](https://appcenter.ms/). Via this approach the developer does not need 
 
 {{% image_container width="650" %}}
 ![App building](attachments/native_app_building_build.png)
