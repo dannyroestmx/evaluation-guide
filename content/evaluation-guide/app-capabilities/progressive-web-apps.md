@@ -38,7 +38,7 @@ Mendix offers several options for extending web apps. These are discussed in the
 
 Based on settings a default [Web App Manifest](https://www.w3.org/TR/appmanifest/) is generated, but developer can fully customize if needed. Next to that, both the *index.html* and login page can be fully customized to your needs. 
 
-## 4 How Can I Test or Distribute My Progressive Web App?
+## 4 How Can I Distribute My Progressive Web App?
 
 As PWAs are web apps, these can be easily tested and distributed by opening the URL in a browser. For local development, Mendix generates a QR code so you can quickly test a PWA on a mobile device.
 
