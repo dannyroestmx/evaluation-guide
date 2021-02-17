@@ -60,7 +60,7 @@ Mendix offers a fully UI-driven approach to build the binaries for your native m
 ![User interface for mobile app building](attachments/native_app_building_wizard.png)
 {{% /image_container %}}
 
-Via this user interface, the app can be built automatically via [Microsoft Visual Studio App Center](https://appcenter.ms/). Via this approach the developer does not need 
+Via this user interface, the app can be built automatically via [Microsoft Visual Studio App Center](https://appcenter.ms/). Via this approach the developer does not need to install software like XCode or Android Studio. If they wish, however, developers can checkout the source and build using their preferred tools.
 
 {{% image_container width="650" %}}
 ![App building](attachments/native_app_building_build.png)
